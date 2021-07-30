@@ -12,6 +12,6 @@ Izin untuk melampirkan hasil pengerjaan Technical Test. Dengan isi lampiran berd
 
 Untuk dapat mengakses file diatas. Berikut adalah work flow untuk mengakses ke-5 file tersebut :
 
-GITS.ID > hello_world > src > GITS > technical_test 
+GITS.ID > result > src > GITS > technical_test 
 
 Terimakasih
